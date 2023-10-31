@@ -1,3 +1,3 @@
 # 4.12-Lab
-10-31-2023
-Anastazja Jurkoic
+Name: Anastazja Jurkoic
+Date: 10-31-2023
