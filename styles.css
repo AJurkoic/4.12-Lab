@@ -16,8 +16,8 @@ body {
    margin: 3px;
    
    display: grid;  
-   grid-template-columns: auto auto auto 100px;
-   grid-template-rows: auto auto auto 100px;
+   grid-template-columns: auto auto 100px;
+   grid-template-rows: auto auto 100px;
    grid-gap: 10px;
    justify-content: center;
 
