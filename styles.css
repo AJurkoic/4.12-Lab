@@ -15,7 +15,7 @@ body {
    font: 85px arial, sans-serif;
    margin: 3px;
    
-   display: ;  
+   display: grid;  
    grid-template-columns: 100px;
    grid-template-rows: 100px;
    grid-gap: 10px;
